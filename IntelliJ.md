@@ -1,7 +1,9 @@
 # IntelliJ 단축키
 
 소스코드 찾기
-- shift + command + f<br>
+- shift + command + f
+
+<br>
 
 소스 replace
 - shift + command + r 
