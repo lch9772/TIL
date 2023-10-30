@@ -15,3 +15,4 @@
   - [함수](https://github.com/lch9772/TIL/blob/main/Kotlin/Kotlin%20%EA%B0%9C%EB%85%90/%ED%95%A8%EC%88%98.md)
   - [프래그먼트](https://github.com/lch9772/TIL/blob/main/Kotlin/Kotlin%20%EA%B0%9C%EB%85%90/%ED%94%84%EB%9E%98%EA%B7%B8%EB%A8%BC%ED%8A%B8.md)
   - [Kotlin의 상속 (open)](https://github.com/lch9772/TIL/blob/main/Kotlin/Kotlin%20%EA%B0%9C%EB%85%90/Kotlin%EC%9D%98%20%EC%83%81%EC%86%8D%20(open).md)
+  - [플로우 기반 형변환 (if문 is연산자)](https://github.com/lch9772/TIL/blob/main/Kotlin/Kotlin%20%EA%B0%9C%EB%85%90/%ED%94%8C%EB%A1%9C%EC%9A%B0%20%EA%B8%B0%EB%B0%98%20%ED%98%95%EB%B3%80%ED%99%98%20(if%EB%AC%B8%20is%EC%97%B0%EC%82%B0%EC%9E%90).md)
