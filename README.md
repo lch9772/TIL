@@ -1,10 +1,11 @@
 # Today I Learned
 
 
-
+## Mark Down
+- [Mark Down 정리]()
 
 ## IntelliJ
-* [IntellJ 단축키](https://github.com/lch9772/TIL/blob/main/IntelliJ/intellij_command.md)
+- [IntellJ 단축키](https://github.com/lch9772/TIL/blob/main/IntelliJ/intellij_command.md)
 
 ## Kotlin
 - Kotlin 개념
