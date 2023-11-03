@@ -19,7 +19,7 @@
   - [Unsafe cast (null이라면 Exception 처리)](https://github.com/lch9772/TIL/blob/main/Kotlin/Kotlin%20%EA%B0%9C%EB%85%90/Unsafe%20cast%20(null%EC%9D%B4%EB%9D%BC%EB%A9%B4%20Exception%20%EC%B2%98%EB%A6%AC).md)
   - [Optional의 메소드 호출](https://github.com/lch9772/TIL/blob/main/Kotlin/Kotlin%20%EA%B0%9C%EB%85%90/Optional%EC%9D%98%20%EB%A9%94%EC%86%8C%EB%93%9C%20%ED%98%B8%EC%B6%9C.md)
   - [기본적인 콜백 함수](https://github.com/lch9772/TIL/blob/main/Kotlin/Kotlin%20%EA%B0%9C%EB%85%90/%EA%B8%B0%EB%B3%B8%EC%A0%81%EC%9D%B8%20%EC%BD%9C%EB%B0%B1%20%ED%95%A8%EC%88%98.md)
-  - [문자열 안에서의 변수 접근]()
+  - [문자열 안에서의 변수 접근](https://github.com/lch9772/TIL/blob/main/Kotlin/Kotlin%20%EA%B0%9C%EB%85%90/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%95%88%EC%97%90%EC%84%9C%EC%9D%98%20%EB%B3%80%EC%88%98%20%EC%A0%91%EA%B7%BC.md)
   - [단일 추상 메소드(SAM) 변환]()
   - [확장 메소드]()
   - [오퍼레이터 오버로드]()
