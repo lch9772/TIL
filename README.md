@@ -17,6 +17,14 @@
   - [Kotlin의 상속 (open)](https://github.com/lch9772/TIL/blob/main/Kotlin/Kotlin%20%EA%B0%9C%EB%85%90/Kotlin%EC%9D%98%20%EC%83%81%EC%86%8D%20(open).md)
   - [플로우 기반 형변환 (if문 is연산자)](https://github.com/lch9772/TIL/blob/main/Kotlin/Kotlin%20%EA%B0%9C%EB%85%90/%ED%94%8C%EB%A1%9C%EC%9A%B0%20%EA%B8%B0%EB%B0%98%20%ED%98%95%EB%B3%80%ED%99%98%20(if%EB%AC%B8%20is%EC%97%B0%EC%82%B0%EC%9E%90).md)
   - [Unsafe cast (null이라면 Exception 처리)](https://github.com/lch9772/TIL/blob/main/Kotlin/Kotlin%20%EA%B0%9C%EB%85%90/Unsafe%20cast%20(null%EC%9D%B4%EB%9D%BC%EB%A9%B4%20Exception%20%EC%B2%98%EB%A6%AC).md)
+  - [Optional의 메소드 호출]()
+  - [기본적인 콜백 함수]()
+  - [문자열 안에서의 변수 접근]()
+  - [단일 추상 메소드(SAM) 변환]()
+  - [확장 메소드]()
+  - [오퍼레이터 오버로드]()
+  - [프로퍼티]()
+  - [Java 프로퍼티 접근자의 프로퍼티화]()
 
 ## Algorithm
 - BOJ
