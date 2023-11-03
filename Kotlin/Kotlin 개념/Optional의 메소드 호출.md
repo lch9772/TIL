@@ -16,3 +16,18 @@ fun hoge(user: User?) {
   val name: String = user?.name ?: "no name"println("name=$name")
 }
 ```
+
+<br>
+
+kotlin에서는 `?.`가 두번 나온다. 이것은 다음과 같이 해석할 수 있다.
+```kotlin
+(user?.name)?.length()
+```
+
+<br>
+
+`?.`을 쓰지 않는 경우에는 아래와 같이 쓸 수 있다.
+```kotlin
+val name: String? = if (user != null) { user.name } else { null }
+val length: Int? = if (name != null) { name.length } else { null }
+```
