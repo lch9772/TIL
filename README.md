@@ -1,11 +1,15 @@
 # Today I Learned
 
+## JavaScript
+- 모던 자바스크립트 Deep Dive
+  - 2장
+    - 자바스크립트란?
+      - [2.1_자바스크립트의 탄생]()
 
-## Mark Down
-- [Mark Down 작성법](https://github.com/lch9772/TIL/blob/main/Mark%20Down/markDown.md)
-
-## IntelliJ
-- [IntellJ 단축키](https://github.com/lch9772/TIL/blob/main/IntelliJ/intellij_command.md)
+## Algorithm
+- BOJ
+  - 입출력
+    - [Hello World](https://github.com/lch9772/TIL/blob/main/Algorithm/BOJ/%08%EC%9E%85%EC%B6%9C%EB%A0%A5/Hello%20World.md)
 
 ## Kotlin
 - Kotlin 개념
@@ -26,7 +30,8 @@
   - [프로퍼티](https://github.com/lch9772/TIL/blob/main/Kotlin/Kotlin%20%EA%B0%9C%EB%85%90/%ED%94%84%EB%A1%9C%ED%8D%BC%ED%8B%B0.md)
   - [Java 프로퍼티 접근자의 프로퍼티화](https://github.com/lch9772/TIL/blob/main/Kotlin/Kotlin%20%EA%B0%9C%EB%85%90/Java%20%ED%94%84%EB%A1%9C%ED%8D%BC%ED%8B%B0%20%EC%A0%91%EA%B7%BC%EC%9E%90%EC%9D%98%20%ED%94%84%EB%A1%9C%ED%8D%BC%ED%8B%B0%ED%99%94.md)
 
-## Algorithm
-- BOJ
-  - 입출력
-    - [Hello World](https://github.com/lch9772/TIL/blob/main/Algorithm/BOJ/%08%EC%9E%85%EC%B6%9C%EB%A0%A5/Hello%20World.md)
+## Mark Down
+- [Mark Down 작성법](https://github.com/lch9772/TIL/blob/main/Mark%20Down/markDown.md)
+
+## IntelliJ
+- [IntellJ 단축키](https://github.com/lch9772/TIL/blob/main/IntelliJ/intellij_command.md)
