@@ -1,0 +1,19 @@
+# A+B -4 (10951 문제)
+## 문제
+## 입력
+## 출력
+## Code
+```kotlin
+import java.util.Scanner
+
+fun main(args: Array<String>) {
+    val sc: Scanner = Scanner(System.`in`)
+    
+    while (sc.hasNextInt()) {
+        val a = sc.nextInt()
+        val b = sc.nextInt()
+        
+        println(a+b)
+    }
+}
+```
